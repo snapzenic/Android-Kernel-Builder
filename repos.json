@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "HawaiiKernel",
-      "repo": "https://github.com/etomanso/kernel_samsung_a24",
-      "branch": "A14",
+      "repo": "https://github.com/etomanso/android_kernel_samsung_a24",
+      "branch": "OSRC",
       "device": "a24"
     },
     "withKernelSU": true,
