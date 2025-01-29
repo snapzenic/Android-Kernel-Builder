@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "HawaiiKernel",
+      "repo": "https://github.com/etomanso/kernel_samsung_a24",
+      "branch": "A14",
+      "device": "a24"
     },
     "withKernelSU": true,
     "toolchains": [
