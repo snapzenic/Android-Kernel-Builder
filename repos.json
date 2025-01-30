@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "HawaiiKernel",
-      "repo": "https://github.com/rtyisreal/android_kernel_samsung_a24",
-      "branch": "Hawaii510177",
+      "name": "HawaiiKernelA14",
+      "repo": "https://github.com/RTYisreal/ONEUI6.0_android_kernel_samsung_a24",
+      "branch": "Hawaii-A14Test-nopatch6.1",
       "device": "a24"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
