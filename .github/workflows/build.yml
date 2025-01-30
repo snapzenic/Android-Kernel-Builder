@@ -15,7 +15,7 @@ jobs:
       repos: ${{ steps.generate-matrix.outputs.repos }}
     steps:
       - name: "😄 Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@4.2.2
 
       - name: "😆 Generate Matrix"
         id: generate-matrix
@@ -156,7 +156,7 @@ jobs:
           make ${args}
 
       - name: "💛 Upload Image"
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@4.6.0
         with:
           name: Image(${{ env.kernelDevice }}-${{ env.kernelName }}-${{ env.kernelBranch }})
           path: ./${{ env.kernelDir }}/${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image
