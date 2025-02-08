@@ -13,8 +13,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "repo": "https://gitlab.com/kutemeikito/rastamod69-clang/",
+        "branch": "clang-20.0",
         "name": "clang"
       }
     ],
