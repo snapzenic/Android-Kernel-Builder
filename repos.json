@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "HawaiiKernel",
-      "repo": "https://github.com/RTYisreal/ONEUI6.0_android_kernel_samsung_a24",
+      "repo": "https://github.com/snapzenic/Hawaii_android_kernel_samsung_a24",
       "branch": "Hawaii6.1",
       "device": "a24"
     },
