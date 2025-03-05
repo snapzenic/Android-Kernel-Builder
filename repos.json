@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "HawaiiKernel",
       "repo": "https://github.com/snapzenic/Hawaii_android_kernel_samsung_a24",
-      "branch": "Hawaii6.1",
+      "branch": "HawaiiU8",
       "device": "a24"
     },
     "withKernelSU": false,
