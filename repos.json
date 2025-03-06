@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://gitlab.com/kutemeikito/rastamod69-clang/",
-        "branch": "clang-20.0",
+        "branch": "Clang-15.0",
         "name": "clang"
       }
     ],
