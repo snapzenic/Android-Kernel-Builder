@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "HawaiiKernel",
-      "repo": "https://github.com/snapzenic/Hawaii_android_kernel_samsung_a24",
-      "branch": "HawaiiU8",
-      "device": "a24"
+      "repo": "https://github.com/snapzenic/android_kernel_xiaomi_jaws",
+      "branch": "lineage-21.0",
+      "device": "jaws"
     },
     "withKernelSU": false,
     "toolchains": [
